@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61686b3f-55cb-4bad-bc93-7183bf8d6316" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Multicapas/Ejercicio2/app/src/main/java/com/example/app/controllers/NameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multicapas/Ejercicio2/app/src/main/java/com/example/app/service/NameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multicapas/Ejercicio2/app/src/main/java/com/example/app/service/NameServiceInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multicapas/Ejercicio2/app/src/test/java/com/example/app/controllers/NameControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/app/src/main/java/app/models/Piloto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/app/src/main/java/app/services/CompetenciaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/app/src/main/java/app/services/CompetenciaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jpa-springboot/app/app/src/main/java/com/app/controllers/PersonaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jpa-springboot/app/app/src/main/java/com/app/entities/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jpa-springboot/app/app/src/main/java/com/app/repositories/PersonaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jpa-springboot/app/app/src/main/java/com/app/services/IPersonaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jpa-springboot/app/app/src/main/java/com/app/services/PersonaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EjerciciosDia2/GeneradorDatos/src/main/java/com/hackaboss/App/controllers/DatosCuriososController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosDia2/GeneradorDatos/src/main/java/com/hackaboss/App/controllers/DatosCuriososController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EjerciciosDia2/GeneradorDatos/src/main/java/com/hackaboss/App/entities/DatosCuriosos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EjerciciosDia2/GeneradorDatos/src/main/java/com/hackaboss/App/entities/DatosCuriosos.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;luciahernandezdev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/luciahernandezdev/Ejercicios-Spring-Boot.git&quot;,
+    &quot;accountId&quot;: &quot;6ae4be32-8490-4bbb-a0bb-a5c283b03144&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2sa3NYa1q1enM0Y9F4q4zmTA1Ph" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppApplication.executor": "Run",
+    "Application.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucia/OneDrive/Escritorio/bootcamp-java/Ejercicios-Spring-Boot/Patron-dto/Ejercicio3/app"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.AppApplication" />
+      <module name="app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61686b3f-55cb-4bad-bc93-7183bf8d6316" name="Changes" comment="" />
+      <created>1738679818493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738679818493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/app/controllers/PlatoController.java</url>
+          <line>20</line>
+          <properties class="app.controllers.PlatoController" method="obtenerPlatoPorId">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
